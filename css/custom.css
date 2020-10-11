@@ -1,0 +1,40 @@
+.bgcolor, .bgcolor #header-wrap {
+    background-color: #0F66DD !important
+}
+
+.header-extras li .he-text span {
+    color: #fff!important;
+}
+.fresco-contact-social-icon {
+    margin-right: 5%;
+}
+.footer-powerby-col {
+    margin: auto;
+    text-align: center;
+}
+#palace-power-by {
+    font-size: 16px;
+}
+#power-by-company-name-in-footer {
+    color: #fff;
+    font-size: 15px;
+}
+.powerby:hover #power-by-company-name-in-footer {
+    color: #00ade3;
+}
+.footer-social-icon-col a {
+    margin-right: 10px;
+}
+.owl-carousel .owl-item img {
+    display: block;
+    width: 70%;
+    -webkit-transform-style: preserve-3d;
+}
+.row.justify-content-between.mb-4.video-inner-row {
+    padding-bottom: 300px !important;
+}
+.feature-box .fbox-icon i, .feature-box .fbox-icon img {
+     border-radius: 0% !important;
+    background-color: transparent !important;
+    padding: 12px;
+}
